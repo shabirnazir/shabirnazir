@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">🛠 Language, Tools and Frameworks</h3>
+<h3 align="left">🛠 Languages, Tools and Frameworks</h3>
 
 ###
 
